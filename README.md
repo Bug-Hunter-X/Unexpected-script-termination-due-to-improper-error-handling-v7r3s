@@ -1,0 +1,1 @@
+This example demonstrates a common issue in VBScript: unexpected script termination due to improper error handling.  The `MyFunction` attempts to check for empty parameters. However, the error handling isn't robust, and there's no mechanism to handle or log the error effectively.  The solution demonstrates a more robust approach.
